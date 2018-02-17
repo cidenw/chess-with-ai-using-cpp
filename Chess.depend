@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1518498224 source:d:\desktop\git\chess\chessgame 3.0.cpp
+	"ChessDesign.h"
+
+1518498676 d:\desktop\git\chess\chessdesign.h
+	<algorithm>
+	<iostream>
+	<cstdlib>
+	<ctype.h>
+	<iomanip>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<string>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<sstream>
+	<vector>
+
+1518498607 source:d:\desktop\git\chess\main.cpp
+	"ChessIO.h"
+
+1518498607 d:\desktop\git\chess\chessio.h
+	"ChessGame.cpp"
+
+1518498224 d:\desktop\git\chess\chessgame 3.0.cpp
+	"ChessDesign.h"
+
+1518498607 d:\desktop\git\chess\chessgame.cpp
+	"ChessDesign.h"
+
+1518498607 source:d:\desktop\git\chess\chessgame.cpp
+	"ChessDesign.h"
+
